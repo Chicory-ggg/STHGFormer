@@ -1,4 +1,5 @@
-# STHGFormer
+# STHGFormer: A spatio-temporal heterogeneous graph transformer approach for integrated and fine-grained traffic forecasting
+Python impletement of paper ***Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach***
 ## The dataset problem:
 Attention:
 
